@@ -1,0 +1,12 @@
+{
+  "version": 1.0
+  "config": {
+		"main": {
+      "setting1": "something",
+			"setting2": "something else",
+    },
+    "other": {
+      "firstLaunch": true,
+      "numLaunches": 0,
+    }
+}
